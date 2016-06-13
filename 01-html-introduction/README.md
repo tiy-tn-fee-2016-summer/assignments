@@ -79,7 +79,9 @@ Using the given `index.html` and `style.css` file, update the markup (classes an
 * [ ] Fill in classes for elements to match styles
 * [ ] Update broken CSS rules
 * [ ] Look for invalid CSS or HTML that may be causing layout issues
-* [ ] Read for other instructions
+* [ ] Read through HTML for other instructions
 ```
 
 ### Tasks for the Adventuresome
+
+Continue working on customizing this page to be your filler portfolio that we can use for now.
