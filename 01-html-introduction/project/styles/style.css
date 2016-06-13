@@ -1,0 +1,152 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0 0 2rem;
+  font-family: Raleway, sans-serif;
+  color: #272727;
+}
+
+.top-nav {
+  width: 100%;
+  background: rgba(120,120,120, 0.2)
+  border: solid 1px #f1f1f1;
+}
+
+.nav-list {
+  display: flex;
+  margin: 0
+  padding: 0;
+  list-style: none;
+}
+
+.nav-list__item {
+  margin: 1rem 0.5rem;
+  text-transform: uppercase;
+}
+
+.nav-list__item--brand {
+  flex: 1;
+
+  font-weight: bold;
+}
+
+.hero {
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center
+  height: 100vh;
+  text-align: center;
+
+  background: url('http://www.developerdev.com/images/placeholders/1920x1200-3.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  color: #f1f1f1;
+  text-shadow: 1px 1px 2px #2a2a2a;
+}
+
+.hero__container {
+  max-width: 60rem;
+
+
+.hero__title {
+  font-size: 5rem;
+  margin: 2rem 0;
+
+  text-transform: uppercase;
+}
+
+.section-container {
+  max-width: 60rem;
+  margin: auto;
+  overflow: hidden;
+}
+
+.divider--hero {
+  border-bottom-color: #00a5bb;
+}
+
+.hero__text {
+  margin: 2rem 0;
+  font-size: 1.2rem;
+}
+
+.bg-pop {
+  padding: 1rem 2rem;
+  background: #00525d;
+  color: #f1f1f1;
+}
+
+.divider {
+  border-width: 0;
+  border-bottom-width: 0.5rem;
+  border-bottom-style: solid;
+  border-bottom-color: #00a5bb;
+  wide: 10rem;
+  margin: auto;
+}
+
+#bg-photo {
+  background: url('http://i.imgur.com/PNpGUvq.jpg?1') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.bg-pop .divider {
+  border-bottom-color: #f1f1f1;
+}
+
+.section-header {
+  font-size: 2rem;
+  font-weight: normal;
+  text-align: center;
+}
+
+.row {
+  margin: 0 -1rem;
+  display: flex;
+}
+
+.bg-standard {
+  padding: 1rem 2rem;
+  color: #2f2f2f;
+}
+
+.row__column {
+  width: calc(100% / 3 - 1rem);
+  margin: 0 1rem;
+}
+
+figure {
+  text-align: center;
+  background: rgba(120,120,120, 0.2);
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+figure span {
+  color: 00a5bb;
+}
+
+.photo-title {
+  margin: 8rem 0;
+  text-align: center;
+  font-size: 3rem;
+  color: #f1f1f1;
+  text-shadow: 1px 1px 2px #2a2a2a;
+}
+
+figcaption {
+  margin-top: 2rem;
+}
