@@ -50,30 +50,37 @@ Normal Mode description
 ![](octocat.png)
 
 ### Tasks
-
+Note!  If you see a checkpoint, that's a great place to git add, commit, and push!
 ```
 * [ ] Create a new directory called `02-box-model`
 * [ ] Use the `git` cli to initialize a new project
+* [ ] Create index.html and app.css files, and generate boilerplates.
 * [ ] Checkpoint: Created and committed `index.html` and `app.css` boilerplate
 * [ ] Use `hub create` to create a new repository on github called `02-box-model`
 * [ ] Use the `git` cli to create a branch called `develop`
 * [ ] Checkpoint: Link CSS to HTML page
 * [ ] Use `hub pull-request -m "Turning in assignment"` to create a new pull request
 * [ ] Post link to pull request on online.theironyard.com
-  * [ ] Checkpoint: Create markup to represent one grid item or column
-    * [ ] Markup: Image
-    * [ ] Markup: Number
-    * [ ] Markup: Octocat name
-    * [ ] Markup: Avatar(s)
-  * [ ] Checkpoint: Duplicate markup from the last step and group with a div
+  * [ ] Checkpoint: Create markup (html) to represent one grid item or column
+    * [ ] Markup: Image (place the image in your column box)
+    * [ ] Markup: Heading (Place the larger bold text in the column with in its own element)
+    * [ ] Markup: Description (write something about yourself in an element under the heading)
+    * [ ] Markup: button left
+    * [ ] Markup: button right
+  * [ ] Checkpoint: Duplicate markup of your column and everything inside it from the last step and group with a div
+  * [ ] Markup: Nav bar
+    * [ ] Markup: Nav bar left
+    * [ ] Markup: Nav bar right
   * [ ] Complete: Pushed `index.html`
 * [ ] Add styles for page
-  * [ ] Checkpoint: Create a "three up" grid
+  * [ ] Checkpoint: Style Nav bar (give it background, and place the text and links where appropriate)
+  * [ ] Checkpoint: Create a "three up" grid (make your columns three wide across the page)
   * [ ] Checkpoint: Size images to layout within grid
-  * [ ] Checkpoint: Style Number
-  * [ ] Checkpoint: Style Octocat Name
-  * [ ] Checkpoint: Style Avatar
-  * [ ] Checkpoint: Style Image Arrow
+  * [ ] Checkpoint: Style columns
+  * [ ] Checkpoint: Style heading
+  * [ ] Checkpoint: Style description
+  * [ ] Checkpoint: Style button container
+  * [ ] Checkpoint: Style buttons
   * [ ] Checkpoint: Cleanup Styles
   * [ ] Complete: Pushed changes
 ```
