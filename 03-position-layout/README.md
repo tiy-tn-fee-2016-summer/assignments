@@ -15,7 +15,6 @@ In this assignment, you'll be recreating the HUD (heads up display) from the gam
 ## Review Objectives
 
 - CSS `display`
-- CSS `float`
 - HTML Syntax
 - CSS Text
 - familiarize yourself with semantic markup elements
