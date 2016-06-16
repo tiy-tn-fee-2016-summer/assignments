@@ -15,6 +15,7 @@ In this assignment, you'll be recreating the HUD (heads up display) from the gam
 ## Review Objectives
 
 - CSS `display`
+- CSS `float`
 - HTML Syntax
 - CSS Text
 - familiarize yourself with semantic markup elements
@@ -44,7 +45,7 @@ In this assignment, you'll be recreating the HUD (heads up display) from the gam
 
 Recreate the following HUD (not the image behind of gameplay) in HTML and CSS.
 
-![](http://i.imgur.com/VMlEiiy.jpg)
+![](./blog.png)
 
 ## Tasks
 
@@ -72,7 +73,7 @@ Recreate the following HUD (not the image behind of gameplay) in HTML and CSS.
     * [ ] **Markup**: Character Health Text
     * [ ] **Markup**: Character Health Bars
   - [ ] Checkpoint: Style character stats
-    * [ ] **Style**: Character Avatar (Pick a photo from http://www.solaguild.com/forum/m/6084117/viewthread/27165242-overwatch-introduction)
+    * [ ] **Style**: Character Avatar (Pick a pho)
     * [ ] **Style**: Character Health Text
     * [ ] **Style**: Character Health Bars
 * [ ] **Goal**: Weapon Status
