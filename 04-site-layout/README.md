@@ -46,7 +46,7 @@ Use the assets in the following zip folder to recreate the mockup image below
 
 To complete this assignment correctly, you must use all of the following in your layout:
 
-  * Use SCSS variables, selector nesting, and parent context `&`
+  * Use CSS variables, selector nesting, and parent context `&`
   * Use any CSS layout properties you want to make the design work well, but you must make some use of _Flexbox_ specifically.
 
 ## Hard Mode
