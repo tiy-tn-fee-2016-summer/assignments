@@ -41,7 +41,7 @@ Recreate the following block using HTML and SASS with the build tools we learned
 ## Tasks
 
 ```
-* [ ] Create a new project using `yo sass-broccoli` name the project `05-position-exercise`
+* [ ] Create a new project using `yo sass-broccoli` name the project `05-positioning`
 * [ ] Initialize new folder as git repository
 * [ ] Using `hub` create a new repository on github
 * [ ] Checkpoint: Stage and commit generated code to `master branch`
