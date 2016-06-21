@@ -15,7 +15,7 @@ After completing this assignment, you should be able to:
 * Use Pseudo Selectors (`:first-of-type`, `:last-of-type`, `:hover`, etc.) to style elements
 * Use Media Queries
 
-### Performance Objectives
+### Review Objectives
 
 After completing this assignment, you should be able to effectively use:
 
@@ -25,9 +25,14 @@ After completing this assignment, you should be able to effectively use:
 * Organize SASS using variables
 * Organize SASS using `@import` statements
 * Create SASS code free of linting errors
-* Use Pseudo Selectors in CSS/SCSS
-* Use Media Queries in CSS/SCSS
 * Use `position: relative` and `position: absolute` to create tool tips
+
+## Grading Criteria
+
+* Desktop Grid Layout
+* Placement of dropdown when user hovers
+* Change in layout for tablet
+* Optimized Media Queries (Don't Repeat Yourself)
 
 ## Details
 
