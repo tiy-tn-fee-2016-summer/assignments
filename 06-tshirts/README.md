@@ -68,7 +68,7 @@ The designer has given you a few things to work with:
 ## Tasks
 
 ```
-* [ ] Create a new project using `yo sass-broccoli` name the project `05-positioning`
+* [ ] Create a new project using `yo sass-broccoli` name the project `06-tshirts`
 * [ ] Initialize new folder as git repository
 * [ ] Using `hub` create a new repository on github
 * [ ] Checkpoint: Commit code from HTML grouping workshop to `master branch`
