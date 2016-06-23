@@ -42,6 +42,8 @@ After completing this assignment, you should be able to effectively use:
 ### Deliverables
 
 * A project started with `sass-broccoli` Yeoman Generator
+* `public/index.html` showing off your work
+* `public/city.html` showing off Nashville
 
 ### Requirements
 
@@ -61,15 +63,15 @@ Recreate the following pages using HTML and SASS
 
 #### City - Mobile
 
-![Mobile](https://placeholdit.imgix.net/~text?txtsize=60&txt=Screenshot+to+come&w=800&h=800&txttrack=0)
+![Screenshot to Come](https://placeholdit.imgix.net/~text?txtsize=60&txt=Screenshot+to+come&w=800&h=800&txttrack=0)
 
 #### City - Tablet
 
-![Mobile](https://placeholdit.imgix.net/~text?txtsize=60&txt=Screenshot+to+come&w=800&h=800&txttrack=0)
+![Screenshot to Come](https://placeholdit.imgix.net/~text?txtsize=60&txt=Screenshot+to+come&w=800&h=800&txttrack=0)
 
 #### City - Desktop
 
-![Mobile](https://placeholdit.imgix.net/~text?txtsize=60&txt=Screenshot+to+come&w=800&h=800&txttrack=0)
+![Screenshot to Come](https://placeholdit.imgix.net/~text?txtsize=60&txt=Screenshot+to+come&w=800&h=800&txttrack=0)
 
 >You should replicate the design as closely as possible (don't take creative liberties with this one).
 
