@@ -45,7 +45,7 @@ After completing this assignment, you should be able to effectively use:
 
 ### Requirements
 
-Recreate the following pages using HTML
+Recreate the following pages using HTML and SASS
 
 #### Mobile
 
