@@ -47,15 +47,15 @@ After completing this assignment, you should be able to effectively use:
 
 Recreate the following pages using HTML and SASS
 
-#### Mobile
+#### Skillz - Mobile
 
 ![Mobile](./skillz-mobile.png)
 
-#### Tablet
+#### Skillz - Tablet
 
 ![Tablet](./skillz-tablet.png)
 
-#### Desktop
+#### Skillz - Desktop
 
 ![Desktop](./skillz-desktop.png)
 
