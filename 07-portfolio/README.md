@@ -49,7 +49,7 @@ Recreate the following pages using HTML and SASS
 
 #### Mobile
 
-![Mobile](./skillz-tablet.png)
+![Mobile](./skillz-mobile.png)
 
 #### Tablet
 
