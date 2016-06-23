@@ -59,6 +59,18 @@ Recreate the following pages using HTML and SASS
 
 ![Desktop](./skillz-desktop.png)
 
+#### City - Mobile
+
+![Mobile](https://placeholdit.imgix.net/~text?txtsize=60&txt=Screenshot+to+come&w=800&h=800&txttrack=0)
+
+#### City - Tablet
+
+![Mobile](https://placeholdit.imgix.net/~text?txtsize=60&txt=Screenshot+to+come&w=800&h=800&txttrack=0)
+
+#### City - Desktop
+
+![Mobile](https://placeholdit.imgix.net/~text?txtsize=60&txt=Screenshot+to+come&w=800&h=800&txttrack=0)
+
 >You should replicate the design as closely as possible (don't take creative liberties with this one).
 
 > You should make sizes and colors configurable with SASS variables
