@@ -49,11 +49,32 @@ Make all tests pass by implementing and filling in the functions.
 * [ ] Create `develop` branch
 ```
 
-## Explorer Mode
+## Explorer Difficulty
 
 ```
 * [ ] Work through tests for '01-create-message-item'
 * [ ] Work through tests for '02-add-message-item'
 * [ ] Work through tests for '03-sum-from-list'
 * [ ] Work through tests for '04-reverse-list'
+```
+
+## Easy Difficulty
+
+For this and the next difficulty, you'll be recreating the game directory page on Twitch.
+
+The left sidebar should be plain HTML and SCSS.
+The main area (the list of games) will be an empty element that you have to fill using Javascript (think appendChild) based on a set of data from Twitch!
+
+```
+* [ ] Run `git pull class master` to bring in updates to the assignment
+* [ ] Look at the tests in the `tests/twitch` folder
+  * [ ] Work through tests for '01-create-game-item'
+  * [ ] Work through tests for '02-add-games-to-list'
+  * [ ] Work through tests for '03-search-twitch'
+* [ ] Run `git pull class master` to bring in updates to the assignment
+* [ ] Write HTML for the Twitch left sidebar
+* [ ] Style the Twitch left sidebar
+* [ ] Write HTML for the Twitch right sidebar
+* [ ] Style the Twitch right sidebar
+* [ ] Style the game results
 ```
