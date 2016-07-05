@@ -40,6 +40,8 @@ After completing this assignment, you should be able to effectively use:
 Recreate the following design using HTML created via Javascript with results from the Netflix Roulette API.
 Then style to match the design.
 
+![Netflix](netflix.png)
+
 ## Getting Started Tasks
 
 ```
