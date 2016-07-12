@@ -2,7 +2,7 @@
 
 ## Description
 
-Now that we
+Now that we have worked with HTML, Javascript, and ES6 classes for a while, let's review our best practices.
 
 ## Objectives
 
@@ -56,7 +56,7 @@ Write a classes/modules for:
   * Constructor
     - Accepts
       * Application Element
-    - Stores
+    - Store on the current instance (to use for later)
       * Any elements and/or sub elements
   * `start`
     - Fires off `fetch` request to `https://card-proxy.herokuapp.com/decks/new`
@@ -70,7 +70,7 @@ Write a classes/modules for:
       * A deck id
     - Creates
       * An empty element to fill in with data from a hand
-    - Stores
+    - Store on the current instance (to use for later)
       * Any elements and/or sub elements
   * `getData`
     - Fetches data for five cards using the url `https://card-proxy.herokuapp.com/decks/deck_id/draw?count=5`
@@ -96,39 +96,39 @@ Write a classes/modules for:
   - [ ] List of cards
   - [ ] List of values
 * [ ] Rename `index` module to `app`
-  - `App` class
-    * Constructor
-      - Accepts
-        * Application Element
-      - Stores
-        * Any elements and/or sub elements
-    * `start`
-      - Fires off `fetch` request to `https://card-proxy.herokuapp.com/decks/new`
-      - Waits for this request to finish and creates five (5) new instances of `Hand` and...
-        * passes in the `deck_id` from the fetched data
-        * appends the hand instance's element to the list of hands in the DOM
-        * runs `getData` on the hand instance, waits for this to complete, then runs `render` on the hand instance
+  - [ ] `App` class
+    * [ ] Constructor
+      - [ ] Accepts
+        * [ ] Application Element
+      - [ ] Store on the current instance (to use for later)
+        * [ ] Any elements and/or sub elements
+    * [ ] `start`
+      - [ ] Fires off `fetch` request to `https://card-proxy.herokuapp.com/decks/new`
+      - [ ] Waits for this request to finish and creates five (5) new instances of `Hand` and...
+        * [ ] passes in the `deck_id` from the fetched data
+        * [ ] appends the hand instance's element to the list of hands in the DOM
+        * [ ] runs `getData` on the hand instance, waits for this to complete, then runs `render` on the hand instance
 * [ ] `require` the `app` module in `index.html`
   - [ ] Create a new instance of the `App` class
     * [ ] Pass in application element
   - [ ] Call `start` on the new instance of `App`
 * [ ] Create a module called `hand`
-  - `Hand`
-    * Constructor
-      - Accepts
-        * A deck id
-      - Creates
-        * An empty element to fill in with data from a hand
-      - Stores
-        * Any elements and/or sub elements
-    * `getData`
-      - Fetches data for five cards using the url `https://card-proxy.herokuapp.com/decks/deck_id/draw?count=5`
-        * Replace `deck_id` with the deck id for the current hand instance
-      - After fetching data, store it on the current hand instance
-      - Return `fetch` so that other parts of the app can wait for `getData` to complete
-    * `render`
-      - Appends card images to a list of card images using `forEach` on the dataset for the current hand
-      - Groups only the `value` for all of the cards
-        * Loop through this group of values and...
-          - Appends card values to a list of card values using `forEach` on the dataset for the current hand
+  - [ ] `Hand`
+    * [ ] Constructor
+      - [ ] Accepts
+        * [ ] A deck id
+      - [ ] Creates
+        * [ ] An empty element to fill in with data from a hand
+      - [ ] Store on the current instance (to use for later)
+        * [ ] Any elements and/or sub elements
+    * [ ] `getData`
+      - [ ] Fetches data for five cards using the url `https://card-proxy.herokuapp.com/decks/deck_id/draw?count=5`
+        * [ ] Replace `deck_id` with the deck id for the current hand instance
+      - [ ] After fetching data, store it on the current hand instance
+      - [ ] Return `fetch` so that other parts of the app can wait for `getData` to complete
+    * [ ] `render`
+      - [ ] Appends card images to a list of card images using `forEach` on the dataset for the current hand
+      - [ ] Groups only the `value` for all of the cards
+        * [ ] Loop through this group of values and...
+          - [ ] Appends card values to a list of card values using `forEach` on the dataset for the current hand
 ```
