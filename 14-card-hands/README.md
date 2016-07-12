@@ -27,6 +27,13 @@ After completing this assignment, you should be able to effectively use:
 - Select DOM Elements with Javascript
 - Style using SCSS
 
+### Grading Criteria
+
+* Use of `map`
+* Use of `forEach`
+* Use of `fetch`
+* Implementation of "ROCK SOLID layout" with responsive grid
+
 ## Details
 
 ### Deliverables
